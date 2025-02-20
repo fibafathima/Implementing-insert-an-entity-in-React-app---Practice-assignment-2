@@ -1,3 +1,4 @@
+
 // src/components/MovieCard.jsx
 
 import React from 'react';
